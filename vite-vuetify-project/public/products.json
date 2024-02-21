@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Bra",
+    "price": 150,
+    "img": "/public/women/bra4.webp"
+  },
+  {
+    "id": "2",
+    "name": "Shorts",
+    "price": 150,
+    "img": "/public/women/womenshorts4.webp"
+  },
+  {
+    "id": "3",
+    "name": "Hoodie",
+    "price": 150,
+    "img": "/public/men/menhoodie1.webp"
+  },
+  {
+    "id": "4",
+    "name": "Sneakers",
+    "price": 150,
+    "img": "/public/sneakers/sneaker4.webp"
+  }
+]
