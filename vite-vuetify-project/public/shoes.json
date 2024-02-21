@@ -3,120 +3,120 @@
     "id": 1,
     "name": "Boots",
     "price": 43,
-    "img": "/public/boots/boot6.webp"
+    "img": "/boots/boot6.webp"
   },
   {
     "id": 2,
     "name": "Sneakers",
     "price": 66,
-    "img": "/public/sneakers/sneaker10.webp"
+    "img": "/sneakers/sneaker10.webp"
   },
   {
     "id": 3,
     "name": "Sneakers",
     "price": 84,
-    "img": "/public/sneakers/sneaker9.webp"
+    "img": "/sneakers/sneaker9.webp"
   },
   {
     "id": 4,
     "name": "Boots",
     "price": 27,
-    "img": "/public/boots/boot3.webp"
+    "img": "/boots/boot3.webp"
   },
   {
     "id": 5,
     "name": "Sneakers",
     "price": 85,
-    "img": "/public/sneakers/sneaker3.webp"
+    "img": "/sneakers/sneaker3.webp"
   },
   {
     "id": 6,
     "name": "Sneakers",
     "price": 73,
-    "img": "/public/sneakers/sneaker2.webp"
+    "img": "/sneakers/sneaker2.webp"
   },
   {
     "id": 7,
     "name": "Boots",
     "price": 71,
-    "img": "/public/boots/boot8.webp"
+    "img": "/boots/boot8.webp"
   },
   {
     "id": 8,
     "name": "Boots",
     "price": 65,
-    "img": "/public/boots/boot4.webp"
+    "img": "/boots/boot4.webp"
   },
   {
     "id": 9,
     "name": "Boots",
     "price": 63,
-    "img": "/public/boots/boot5.webp"
+    "img": "/boots/boot5.webp"
   },
   {
     "id": 10,
     "name": "Sneakers",
     "price": 90,
-    "img": "/public/sneakers/sneaker4.webp"
+    "img": "/sneakers/sneaker4.webp"
   },
   {
     "id": 11,
     "name": "Boots",
     "price": 64,
-    "img": "/public/boots/boot7.webp"
+    "img": "/boots/boot7.webp"
   },
   {
     "id": 12,
     "name": "Boots",
     "price": 40,
-    "img": "/public/boots/boot9.webp"
+    "img": "/boots/boot9.webp"
   },
   {
     "id": 13,
     "name": "Boots",
     "price": 20,
-    "img": "/public/boots/boot10.webp"
+    "img": "/boots/boot10.webp"
   },
   {
     "id": 14,
     "name": "Sneakers",
     "price": 54,
-    "img": "/public/sneakers/sneaker8.webp"
+    "img": "/sneakers/sneaker8.webp"
   },
   {
     "id": 15,
     "name": "Sneakers",
     "price": 30,
-    "img": "/public/sneakers/sneaker7.webp"
+    "img": "/sneakers/sneaker7.webp"
   },
   {
     "id": 16,
     "name": "Sneakers",
     "price": 41,
-    "img": "/public/sneakers/sneaker6.webp"
+    "img": "/sneakers/sneaker6.webp"
   },
   {
     "id": 17,
     "name": "Boots",
     "price": 48,
-    "img": "/public/boots/boot1.webp"
+    "img": "/boots/boot1.webp"
   },
   {
     "id": 18,
     "name": "Sneakers",
     "price": 22,
-    "img": "/public/sneakers/sneaker5.webp"
+    "img": "/sneakers/sneaker5.webp"
   },
   {
     "id": 19,
     "name": "Sneakers",
     "price": 63,
-    "img": "/public/sneakers/sneaker1.webp"
+    "img": "/sneakers/sneaker1.webp"
   },
   {
     "id": 20,
     "name": "Boots",
     "price": 49,
-    "img": "/public/boots/boot2.webp"
+    "img": "/boots/boot2.webp"
   }
 ]

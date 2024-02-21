@@ -1,199 +1,198 @@
 [
-    {
-      "id": 1,
-      "name": "Crop top",
-      "price": 25,
-      "category": "women",
-      "img" : "/public/women/croptop3.webp"
-    },
-    {
-      "id": 2,
-      "name": "Bra",
-      "price": 45,
-      "category": "women",
-      "img" : "/public/women/bra1.webp"
-    },
-    {
-      "id": 3,
-      "name": "Shorts",
-      "price": 35,
-      "category": "women",
-      "img" : "/public/women/womenshorts1.webp"
-    },
-    {
-      "id": 4,
-      "name": "Pants",
-      "price": 30,
-      "category": "women",
-      "img" : "/public/women/womenpants1.webp"
-    },
-    {
-      "id": 5,
-      "name": "Hoodie",
-      "price": 50,
-      "category": "women",
-      "img" : "/public/women/womenhoodie1.webp"
-    },
-    {
-      "id": 6,
-      "name": "Crop top",
-      "price": 40,
-      "category": "women",
-      "img" : "/public/women/croptop2.webp"
-    },
-    {
-      "id": 7,
-      "name": "Bra",
-      "price": 28,
-      "category": "women",
-      "img" : "/public/women/bra2.webp"
-    },
-    {
-      "id": 8,
-      "name": "Hoodie",
-      "price": 48,
-      "category": "women",
-      "img" : "/public/women/womenhoodie2.webp"
-    },
-    {
-      "id": 9,
-      "name": "Shorts",
-      "price": 38,
-      "category": "women",
-      "img" : "/public/women/womenshorts2.webp"
-    },
-    {
-      "id": 10,
-      "name": "Crop top",
-      "price": 26,
-      "category": "women",
-      "img" : "/public/women/croptop1.webp"
-    },
-    {
-      "id": 11,
-      "name": "Bra",
-      "price": 20,
-      "category": "women",
-      "img": "/public/women/bra3.webp"
-    },
-    {
-      "id": 12,
-      "name": "Shorts",
-      "price": 45,
-      "category": "women",
-      "img": "/public/women/womenshorts3.webp"
-    },
-    {
-      "id": 13,
-      "name": "Pants",
-      "price": 35,
-      "category": "women",
-      "img": "/public/women/womenpants2.webp"
-    },
-    {
-      "id": 14,
-      "name": "Bra",
-      "price": 30,
-      "category": "women",
-      "img": "/public/women/bra4.webp"
-    },
-    {
-      "id": 15,
-      "name": "Shorts",
-      "price": 50,
-      "category": "women",
-      "img": "/public/women/womenshorts4.webp"
-    },
-    {
-      "id": 16,
-      "name": "Crop top",
-      "price": 40,
-      "category": "women",
-      "img": "/public/women/croptop4.webp"
-    },
-    {
-      "id": 17,
-      "name": "Top",
-      "price": 28,
-      "category": "women",
-      "img": "/public/women/top1.webp"
-    },
-    {
-      "id": 18,
-      "name": "Top",
-      "price": 48,
-      "category": "women",
-      "img": "/public/women/top2.webp"
-    },
-    {
-      "id": 19,
-      "name": "Hoodie",
-      "price": 38,
-      "category": "men",
-      "img": "/public/men/menhoodie1.webp"
-    },
-    {
-      "id": 20,
-      "name": "Pants",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menpants1.webp"
-    },
-    {
-      "id": 21,
-      "name": "T-shirt",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menshirt1.webp"
-    },
-    {
-      "id": 22,
-      "name": "Shorts",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menshorts1.webp"
-    },
-    {
-      "id": 23,
-      "name": "Hoodie",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menhoodie2.webp"
-    },
-    {
-      "id": 24,
-      "name": "Pants",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menpants2.webp"
-    },
-    {
-      "id": 25,
-      "name": "Shorts",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menshorts2.webp"
-    },
-    {
-      "id": 26,
-      "name": "T-shirt",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menshirt2.webp"
-    },
-    {
-      "id": 27,
-      "name": "Shorts",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menshorts3.webp"
-    },
-    {
-      "id": 28,
-      "name": "T-shirt",
-      "price": 26,
-      "category": "men",
-      "img": "/public/men/menshirt3.webp"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Crop top",
+    "price": 25,
+    "category": "women",
+    "img": "/women/croptop3.webp"
+  },
+  {
+    "id": 2,
+    "name": "Bra",
+    "price": 45,
+    "category": "women",
+    "img": "/women/bra1.webp"
+  },
+  {
+    "id": 3,
+    "name": "Shorts",
+    "price": 35,
+    "category": "women",
+    "img": "/women/womenshorts1.webp"
+  },
+  {
+    "id": 4,
+    "name": "Pants",
+    "price": 30,
+    "category": "women",
+    "img": "/women/womenpants1.webp"
+  },
+  {
+    "id": 5,
+    "name": "Hoodie",
+    "price": 50,
+    "category": "women",
+    "img": "/women/womenhoodie1.webp"
+  },
+  {
+    "id": 6,
+    "name": "Crop top",
+    "price": 40,
+    "category": "women",
+    "img": "/women/croptop2.webp"
+  },
+  {
+    "id": 7,
+    "name": "Bra",
+    "price": 28,
+    "category": "women",
+    "img": "/women/bra2.webp"
+  },
+  {
+    "id": 8,
+    "name": "Hoodie",
+    "price": 48,
+    "category": "women",
+    "img": "/women/womenhoodie2.webp"
+  },
+  {
+    "id": 9,
+    "name": "Shorts",
+    "price": 38,
+    "category": "women",
+    "img": "/women/womenshorts2.webp"
+  },
+  {
+    "id": 10,
+    "name": "Crop top",
+    "price": 26,
+    "category": "women",
+    "img": "/women/croptop1.webp"
+  },
+  {
+    "id": 11,
+    "name": "Bra",
+    "price": 20,
+    "category": "women",
+    "img": "/women/bra3.webp"
+  },
+  {
+    "id": 12,
+    "name": "Shorts",
+    "price": 45,
+    "category": "women",
+    "img": "/women/womenshorts3.webp"
+  },
+  {
+    "id": 13,
+    "name": "Pants",
+    "price": 35,
+    "category": "women",
+    "img": "/women/womenpants2.webp"
+  },
+  {
+    "id": 14,
+    "name": "Bra",
+    "price": 30,
+    "category": "women",
+    "img": "/women/bra4.webp"
+  },
+  {
+    "id": 15,
+    "name": "Shorts",
+    "price": 50,
+    "category": "women",
+    "img": "/women/womenshorts4.webp"
+  },
+  {
+    "id": 16,
+    "name": "Crop top",
+    "price": 40,
+    "category": "women",
+    "img": "/women/croptop4.webp"
+  },
+  {
+    "id": 17,
+    "name": "Top",
+    "price": 28,
+    "category": "women",
+    "img": "/women/top1.webp"
+  },
+  {
+    "id": 18,
+    "name": "Top",
+    "price": 48,
+    "category": "women",
+    "img": "/women/top2.webp"
+  },
+  {
+    "id": 19,
+    "name": "Hoodie",
+    "price": 38,
+    "category": "men",
+    "img": "/men/menhoodie1.webp"
+  },
+  {
+    "id": 20,
+    "name": "Pants",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menpants1.webp"
+  },
+  {
+    "id": 21,
+    "name": "T-shirt",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menshirt1.webp"
+  },
+  {
+    "id": 22,
+    "name": "Shorts",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menshorts1.webp"
+  },
+  {
+    "id": 23,
+    "name": "Hoodie",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menhoodie2.webp"
+  },
+  {
+    "id": 24,
+    "name": "Pants",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menpants2.webp"
+  },
+  {
+    "id": 25,
+    "name": "Shorts",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menshorts2.webp"
+  },
+  {
+    "id": 26,
+    "name": "T-shirt",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menshirt2.webp"
+  },
+  {
+    "id": 27,
+    "name": "Shorts",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menshorts3.webp"
+  },
+  {
+    "id": 28,
+    "name": "T-shirt",
+    "price": 26,
+    "category": "men",
+    "img": "/men/menshirt3.webp"
+  }
+]
